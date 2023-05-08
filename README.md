@@ -1,3 +1,3 @@
 # SliderShow
 HTML/CSS/js
-https://jorge-chupacabras.github.io/SliderShow/
+https://jorgeabanarezc.github.io/SliderShow/
